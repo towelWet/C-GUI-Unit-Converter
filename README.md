@@ -1,8 +1,6 @@
 
 <img width="577" alt="Screen Shot 2024-09-10 at 8 45 23 PM" src="https://github.com/user-attachments/assets/fa9e38f7-0a5b-492a-9563-7b851b1e8350">
 
-Below is a detailed README file tailored for the Unit Conversion Application that explains how to set up and run the application on both Windows and macOS. This README is designed to be included in your project directory and should provide clear instructions for any user wanting to compile and use the application.
-
 # Unit Conversion Application
 
 This application allows users to convert between different units of temperature and weight using a simple GUI. It supports conversions between Celsius and Fahrenheit, and kilograms and pounds.
